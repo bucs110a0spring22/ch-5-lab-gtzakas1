@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ created a dart board that would differentiate the darts if they hit the board or not by color while also counting the darts and determining the value of pi
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 2/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ i had difficulty on part c but i felt like i did it correct for the most part.
