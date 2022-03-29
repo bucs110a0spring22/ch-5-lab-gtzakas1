@@ -26,7 +26,6 @@ Functions you must implement:
 '''
 import turtle
 import random
-import time
 
 #########################################################
 #                  Your Code Goes Below                #
